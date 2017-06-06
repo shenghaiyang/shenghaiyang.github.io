@@ -1,4 +1,5 @@
-theme: jekyll-theme-midnight
+markdown: kramdown
+theme: minima
 title: shenghaiyang
 github_username: shenghaiyang
 description: If
