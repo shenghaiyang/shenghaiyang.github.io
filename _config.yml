@@ -1,5 +1,5 @@
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-cayman
 title: shenghaiyang
 github_username: shenghaiyang
 description: If
