@@ -2,6 +2,6 @@ markdown: kramdown
 theme: jekyll-theme-cayman
 title: shenghaiyang
 github_username: shenghaiyang
-description: If
+description: Personal blog
 baseurl: ""
-url: "http://shenghaiyang.com"
+url: "http://shenghaiyang.github.io"
