@@ -1,7 +1,3 @@
-markdown: kramdown
 theme: jekyll-theme-time-machine
 title: shenghaiyang
 github_username: shenghaiyang
-description: Personal blog
-baseurl: ""
-url: "http://shenghaiyang.github.io"
