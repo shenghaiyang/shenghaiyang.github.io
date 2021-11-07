@@ -1,0 +1,16 @@
+site_name: shenghaiyang
+site_url: https://shenghaiyang.github.io/
+
+theme:
+  name: material
+  language: zh
+  features:
+
+copyright: Copyright &copy; 2021 盛海洋
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/shenghaiyang
+      name: shenghaiyang
+  generator: true
