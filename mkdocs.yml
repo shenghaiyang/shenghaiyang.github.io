@@ -4,7 +4,6 @@ site_url: https://shenghaiyang.github.io/
 theme:
   name: material
   language: zh
-  features:
 
 copyright: Copyright &copy; 2021 盛海洋
 
@@ -14,3 +13,11 @@ extra:
       link: https://github.com/shenghaiyang
       name: shenghaiyang
   generator: true
+
+markdown_extensions:
+  - pymdownx.highlight:
+      linenums: true
+      linenums_style: table
+  - pymdownx.inlinehilite
+  - pymdownx.superfences
+  - pymdownx.snippets
