@@ -4,6 +4,8 @@ site_url: https://shenghaiyang.github.io/
 theme:
   name: material
   language: zh
+  palette:
+    primary: green
 
 copyright: Copyright &copy; 2021 盛海洋
 
