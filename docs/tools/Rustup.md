@@ -31,6 +31,9 @@ export RUSTUP_DIST_SERVER=https://mirrors.ustc.edu.cn/rust-static
 ```shell
 export RUSTUP_UPDATE_ROOT=https://mirrors.ustc.edu.cn/rust-static/rustup
 ```
+
 ## Rustup 安装
 
-第一次安装`rustup`的时候，如果按照官网教程`https://sh.rustup.rs`链接无法下载，可以通过[jsDelivrCDN](https://cdn.jsdelivr.net/gh/rust-lang-nursery/rustup.rs/rustup-init.sh)下载`rustup-init.sh`，然后把脚本中的`RUSTUP_UPDATE_ROOT`变量改为`https://mirrors.ustc.edu.cn/rust-static/rustup。`
+第一次安装`rustup`的时候，如果按照官网教程`https://sh.rustup.rs`链接无法下载，可以通过[jsDelivrCDN](https://cdn.jsdelivr.net/gh/rust-lang-nursery/rustup.rs/rustup-init.sh)下载`rustup-init.sh`，然后把脚本中的`RUSTUP_UPDATE_ROOT`变量改为`https://mirrors.ustc.edu.cn/rust-static/rustup`。
+
+> Crates 源可能会出现 Couldn't resolve host name (Could not resolve host: crates) 错误,见:[https://github.com/ustclug/discussions/issues/294](https://github.com/ustclug/discussions/issues/294)。一个临时的解决方法是在运行 cargo 的时候加入环境变量 `CARGO_HTTP_MULTIPLEXING=false`。
