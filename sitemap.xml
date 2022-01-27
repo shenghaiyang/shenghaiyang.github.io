@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://shenghaiyang.github.io/</loc>
+         <lastmod>2022-01-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://shenghaiyang.github.io/java/IntrinsicsMethod/</loc>
+         <lastmod>2022-01-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://shenghaiyang.github.io/tools/Homebrew/</loc>
+         <lastmod>2022-01-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://shenghaiyang.github.io/tools/Links/</loc>
+         <lastmod>2022-01-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://shenghaiyang.github.io/tools/Rustup/</loc>
+         <lastmod>2022-01-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://shenghaiyang.github.io/tools/chmod/</loc>
+         <lastmod>2022-01-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
