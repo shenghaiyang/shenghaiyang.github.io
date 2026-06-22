@@ -2,6 +2,11 @@
 
 Personal website & blog.
 
+[![Docs][docs-action-badge]][docs-action-url]
+
+[docs-action-badge]: https://github.com/shenghaiyang/shenghaiyang.github.io/actions/workflows/docs.yml/badge.svg
+[docs-action-url]: https://github.com/shenghaiyang/shenghaiyang.github.io/actions/workflows/docs.yml
+
 
 ## License
 
