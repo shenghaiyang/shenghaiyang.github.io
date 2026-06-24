@@ -13,8 +13,11 @@ nav = [
     { "Home" = "index.md" },
     { "Blog" = "blog-index.md" },
     { "Projects" = "projects.md" },
-    { "GitHub ↗" = "https://github.com/shenghaiyang" },
+    { "Notes" = [
+        "notes/index.md",
+    ] },
     { "About" = "about.md" },
+    { "GitHub ↗" = "https://github.com/shenghaiyang" },
 ]
 
 [project.theme]
@@ -37,7 +40,7 @@ features = [
     "navigation.instant",
     "navigation.instant.prefetch",
     #"navigation.instant.progress",
-#    "navigation.path",
+    #"navigation.path",
     #"navigation.prune",
     "navigation.sections",
     "navigation.tabs",
