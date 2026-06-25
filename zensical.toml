@@ -15,6 +15,7 @@ nav = [
     { "Projects" = "projects.md" },
     { "Notes" = [
         "notes/index.md",
+        { "Memory Allocators" = "memory-allocators.md" },
     ] },
     { "About" = "about.md" },
     { "GitHub ↗" = "https://github.com/shenghaiyang" },
